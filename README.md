@@ -178,7 +178,7 @@ Designed a scalable RAG backend using PostgreSQL with pgvector for enterprise-gr
 
 **Workflow:** Document Ingestion → Vector Embeddings → Semantic Search → Context Retrieval → Generation
 
-[![View Code](https://img.shields.io/badge/GitHub-View_Code-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Francis-Gallo/rag-backend-pgvector)
+
 ---
 
 ### 3. Multi-Robot Warehouse Management
