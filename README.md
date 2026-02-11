@@ -27,7 +27,7 @@
 
 <br/>
 
-## 🚀 About Me
+##  About Me
 
 <img align="right" alt="AI Development" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -36,19 +36,19 @@
 💼 Applied AI Engineer @ Karma Com Solidarité  
 🎓 MSc Artificial Intelligence @ ECE Paris (2024-2026)
 
-### 🔨 Currently Working On
+###  Currently Working On
 - Building RAG-powered document processing systems
 - Developing privacy-first local LLM applications
 - Engineering AI automation workflows with n8n
 - Optimizing vector database architectures
 
-### 🎯 Areas of Interest
+###  Areas of Interest
 - Advanced multi-agent systems
 - Production MLOps pipelines
 - Semantic search and retrieval optimization
 - AI planning and automated reasoning
 
-### 💼 Open to Opportunities
+###  Open to Opportunities
 **Seeking:** Data/AI Internship (6 months)  
 **Start Date:** April 2026  
 **Location:** On-site | Hybrid | Remote
@@ -61,22 +61,22 @@
 
 <br/>
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 💻 Programming & Fundamentals
+###  Programming & Fundamentals
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🧠 Generative AI & LLMs
+###  Generative AI & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge&logo=chainlink&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white)
@@ -84,7 +84,7 @@
 ![LM Studio](https://img.shields.io/badge/LM_Studio-0EA5E9?style=for-the-badge&logo=lightning&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-FF1493?style=for-the-badge&logo=vectorworks&logoColor=white)
 
-### 🗄️ Databases & Vector Storage
+###  Databases & Vector Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -92,19 +92,19 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Backend & Automation
+###  Backend & Automation
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-### 📊 Data Visualization
+###  Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -114,7 +114,7 @@
 
 <br/>
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Automation AI Engineer | Karma Com Solidarité
 **Nov 2025 - Present** | Paris, France
@@ -132,7 +132,7 @@
 
 <br/>
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 ### 1. Hybrid ATS Resume Analyzer
 
@@ -241,7 +241,7 @@ Implemented an end-to-end RAG system for answering questions from PDF documents 
 
 <br/>
 
-## 🎓 Education
+##  Education
 
 <table>
 <tr>
@@ -279,7 +279,7 @@ Implemented an end-to-end RAG system for answering questions from PDF documents 
 
 <br/>
 
-## 💡 Core Competencies
+##  Core Competencies
 
 <div align="center">
 
@@ -299,7 +299,7 @@ Implemented an end-to-end RAG system for answering questions from PDF documents 
 
 <br/>
 
-## ⚡ What Sets Me Apart
+##  What Sets Me Apart
 
 <div align="center">
 
@@ -315,11 +315,11 @@ Implemented an end-to-end RAG system for answering questions from PDF documents 
 
 <br/>
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
-### 💼 Actively Seeking: 6-Month Data/AI Internship (Starting April 2026)
+###  Actively Seeking: 6-Month Data/AI Internship (Starting April 2026)
 **Open to: On-site · Hybrid · Remote Opportunities**
 
 <br/>
