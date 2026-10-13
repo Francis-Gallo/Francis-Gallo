@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Francis Gallo Sahayaraj, Founding AI Engineer at Bulin AI, Physical AI and robot learning tooling">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111a33"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="14" fill="url(#grid)"/>
+
+  <!-- demonstrated trajectory (dashed) vs deployed trajectory (solid) -->
+  <path d="M774 162 C 830 150, 850 110, 920 100 S 1040 70, 1120 60" fill="none" stroke="#94a3b8" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="6 7"/>
+  <path d="M774 162 C 830 160, 850 130, 900 138 S 970 185, 1010 175" fill="none" stroke="url(#trail)" stroke-width="3"/>
+  <circle cx="774" cy="162" r="4" fill="#22d3ee"/>
+  <circle cx="1120" cy="60" r="6" fill="none" stroke="#94a3b8" stroke-width="2"/>
+  <circle cx="1010" cy="175" r="6" fill="#f87171"/>
+  <path d="M1004 169l12 12M1016 169l-12 12" stroke="#0b1020" stroke-width="2.4"/>
+
+  <!-- small robot arm -->
+  <g stroke="#e2e8f0" stroke-width="7" stroke-linecap="round" fill="none" opacity="0.9">
+    <path d="M640 228 L640 200 L690 150 L752 162"/>
+  </g>
+  <rect x="616" y="226" width="48" height="10" rx="3" fill="#334155"/>
+  <circle cx="640" cy="200" r="7" fill="#22d3ee"/>
+  <circle cx="690" cy="150" r="7" fill="#22d3ee"/>
+  <path d="M752 162 l14 -8 M752 162 l14 8" stroke="#e2e8f0" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- diagnostic tag -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <rect x="860" y="200" width="250" height="30" rx="6" fill="#1e293b" stroke="#334155"/>
+    <text x="874" y="220" fill="#f87171">ERROR</text>
+    <text x="928" y="220" fill="#e2e8f0">PD204 camera names differ</text>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="100" font-size="44" font-weight="700" fill="#f8fafc">Francis Gallo Sahayaraj</text>
+    <text x="56" y="142" font-size="21" fill="#22d3ee">Founding AI Engineer @ Bulin AI</text>
+    <text x="56" y="176" font-size="18" fill="#94a3b8">Physical AI · robot learning tooling · LLM systems</text>
+    <text x="56" y="214" font-size="15" fill="#64748b">MSc AI @ ECE Paris · Paris, France</text>
+  </g>
+</svg>
